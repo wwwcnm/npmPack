@@ -2,14 +2,17 @@
   "name": "xwh_swiper",
   "version": "1.0.0",
   "description": "",
-  "main": "swiper.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwwcnm/npmPack.git"
+  },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "vue": "^3.4.23"
-  }
+  "bugs": {
+    "url": "https://github.com/wwwcnm/npmPack/issues"
+  },
+  "homepage": "https://github.com/wwwcnm/npmPack#readme"
 }
